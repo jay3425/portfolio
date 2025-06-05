@@ -243,7 +243,7 @@ span {
 }
 .about h2 span {
   color: var(--main-color);
-  text-shadow: 0 0 50px var(--main-color);
+/*   text-shadow: 0 0 50px var(--main-color); */
 }
 .about-img {
   border-radius: 5%;
