@@ -245,11 +245,11 @@ span {
   }
   61%,
   80% {
-    content: "Data Scientist";
+    content: "Python Developer";
   }
   81%,
   100% {
-    content: Software Tester;
+    content: "Web Developer";
   }
 }
 @keyframes typing {
